@@ -15,12 +15,6 @@ Content Based Recommender System recommends movies similar to the movie user lik
 - Get similar movies of your favourite movies in no time!
 
 
-
-## Appendix
-
-Any additional information goes here
-
-
 ## Lessons Learned
 
 Learned about machine learning project building process. Used the best possible beginners practices to prepare myself for tech industry.
@@ -29,7 +23,8 @@ Learned about machine learning project building process. Used the best possible 
 
 1) Clone or download this repository to your local machine.
 2) Install all the libraries mentioned in the requirements.txt file.
-3) Open your terminal/command prompt from your project directory and run the file run.py by executing the command -> streamlit run app.py.
+3) Run the "Movie Recommender System Notebook.ipynb" once on your device to create the required .pkl files on on your device.
+4) Open the app.py and open your terminal/command prompt from your project directory and run the file run.py by executing the command -> streamlit run app.py.
 
 
 
